@@ -1,3 +1,5 @@
+import keyTables, textTables
+
 def PC(Key, pcNumber): #PermutationChoice
     permutationChoice = []
     if(pcNumber == 1):
